@@ -1,5 +1,4 @@
 # 🐢 Wille Similä
-<img alt="Firefox" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"/><p>></p><img alt="Chromium" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
 
 **Web-kehittäjäopiskelija**
 
