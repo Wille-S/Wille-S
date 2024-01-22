@@ -1,4 +1,4 @@
-# 🐢 Wille Similä
+# Wille Similä
 
 **Web-kehittäjäopiskelija**
 
