@@ -2,7 +2,7 @@
 
 **Web-kehittäjäopiskelija**
 
-Olen Business College Helsingissä kolmatta vuotta web-kehitystä opiskeleva 18-vuotias. Olen kiinnostunut front-end kehityksestä erityisesti. 
+Olen Business College Helsingissä kolmatta vuotta web-kehitystä opiskeleva 18-vuotias. Olen kiinnostunut erityisesti front-end kehityksestä. 
 ---
 ### Koodikielet ja työkalut
 
