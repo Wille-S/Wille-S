@@ -1,8 +1,8 @@
 # Wille Similä
 
-**Web-kehittäjäopiskelija**
+**Web-kehittäjä**
 
-Olen Business College Helsingissä kolmatta vuotta web-kehitystä opiskeleva 19-vuotias.
+Olen 19-vuotias web-kehittäjä.
 ---
 ### Koodikielet ja työkalut
 
